@@ -29,8 +29,7 @@ class FarmingEnv(gym.Env):
         self.field[diseased_indices] = 1
         self.agent_positions = np.zeros(self.n_agents, dtype=int)
         self.already_sampled = np.zeros(self.n_plants, dtype=bool)
-        obs = self._get_obs()
-        return obs, {}
+        return self._get_obs(), {}
 
     def _get_obs(self):
         obs = []
@@ -50,6 +49,7 @@ class FarmingEnv(gym.Env):
 
         for idx, action in enumerate(actions):
             pos = self.agent_positions[idx]
+            # Actions: 0=noop, 1=forward, 2=backward, 3=inspect
             if action == 1 and pos < self.n_plants - 1:
                 self.agent_positions[idx] += 1
             elif action == 2 and pos > 0:
@@ -57,25 +57,26 @@ class FarmingEnv(gym.Env):
             elif action == 3:
                 if not self.already_sampled[pos]:
                     if self.field[pos] == 1:
-                        rewards[idx] += 2.0
+                        rewards[idx] += 5.0   # Increased positive reward
                     else:
-                        rewards[idx] -= 0.2
+                        rewards[idx] -= 0.1   # Reduced false positive penalty
                     self.already_sampled[pos] = True
                 else:
-                    rewards[idx] -= 0.5
+                    rewards[idx] -= 0.2       # Reduced repeat inspection penalty
 
         for idx, action in enumerate(actions):
             if action in [1, 2]:
-                rewards[idx] -= 0.05
+                rewards[idx] -= 0.01          # Reduced movement penalty
 
         obs = self._get_obs()
         terminated = self.steps >= self.max_steps or np.all(self.already_sampled)
         truncated = False
         info = {}
+
         return obs, rewards, terminated, truncated, info
 
     def render(self, mode='human'):
-        if mode == 'human' and self.episode_count % 100 == 0:
+        if mode == 'human' and self.episode_count % 1000 == 0:
             print(f"Episode {self.episode_count}:")
             print(f"Field (0:healthy,1:diseased): {self.field}")
             print(f"Agent positions: {self.agent_positions}")
