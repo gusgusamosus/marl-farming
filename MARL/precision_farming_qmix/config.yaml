@@ -1,0 +1,14 @@
+n_agents: 2
+field_length: 20
+buffer_size: 5000
+batch_size: 32
+episodes: 5000
+gamma: 0.99
+epsilon_start: 1.0
+epsilon_final: 0.05
+epsilon_decay: 1000
+max_steps: 20
+save_interval: 500
+lr: 1e-3
+hidden_dim: 64
+target_update_interval: 100
