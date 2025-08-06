@@ -5,21 +5,20 @@ from envs.farming_env import FarmingEnv
 from agents.maddpg_agent import MADDPGAgent
 from utils import ReplayBuffer
 
-# --- Experiment parameters ---
-n_agents = 2 #change this if needed but for this project 2/4/4 will suffice
-state_dim = 4 #ensure that these two...
-action_dim = 4 #...are the same
+# Hyperparameters and setup
+n_agents = 2
+state_dim = 4
+action_dim = 4
 n_plants = 20
-n_episodes = 5000 #change this as needed
-max_steps = 25 #and this
+n_episodes = 5000     # As per your requirement
+max_steps = 20       # As per your requirement
 batch_size = 32
 
-# --- Logging setup ---
 logfile = "training_log.csv"
-with open(logfile, 'w') as f:
-    pass  # This will clear the file
+with open(logfile, "w", newline='') as f:
+    writer = csv.writer(f)
+    writer.writerow(["episode", "score", "hits", "false_positives", "repeats"])
 
-# --- Env and agent setup ---
 env = FarmingEnv(n_agents=n_agents, n_plants=n_plants, max_steps=max_steps)
 agents = [
     MADDPGAgent(state_dim, action_dim, total_state_dim=state_dim * n_agents, total_action_dim=action_dim * n_agents)
@@ -41,7 +40,7 @@ for episode in range(n_episodes):
     repeats = 0
 
     while not (terminated or truncated) and step < max_steps:
-        epsilon = max(0.05, 1 - episode / 10000)  # epsilon-greedy exploration
+        epsilon = max(0.05, 1 - episode / 1000)  # decaying exploration rate
         actions = []
         for agent, state in zip(agents, states):
             if random.random() < epsilon:
@@ -49,11 +48,11 @@ for episode in range(n_episodes):
             else:
                 actions.append(agent.select_action(state))
 
-        pre_sampled = env.already_sampled.copy()  # snapshot before env.step
+        pre_sampled = env.already_sampled.copy()  # snapshot before step
 
         next_states, rewards, terminated, truncated, _ = env.step(actions)
 
-        # Correct event logging
+        # Logging correct hits, false positives, repeats
         for idx, action in enumerate(actions):
             pos = env.agent_positions[idx]
             if action == 3:
@@ -78,12 +77,11 @@ for episode in range(n_episodes):
     episode_scores.append(total_episode_reward)
     detection_stats.append((hits, false_positives, repeats))
 
-    # --- Write to CSV log ---
     with open(logfile, "a", newline='') as f:
         writer = csv.writer(f)
         writer.writerow([episode + 1, total_episode_reward, hits, false_positives, repeats])
 
-    # Print summary every 100 episodes only
+    # Print statistics every 100 episodes
     if (episode + 1) % 100 == 0:
         recent_scores = episode_scores[-100:]
         recent_detections = detection_stats[-100:]
