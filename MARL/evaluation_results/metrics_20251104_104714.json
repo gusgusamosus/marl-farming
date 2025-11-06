@@ -1,0 +1,70 @@
+{
+    "overall": {
+        "accuracy": 0.5835922933499068,
+        "precision": 0.5079783018611653,
+        "recall": 0.5835922933499068,
+        "f1_score": 0.5396272403994137
+    },
+    "per_class": {
+        "Tomato_Bacterial_Spot": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1_score": 0.0,
+            "support": 108
+        },
+        "Tomato_Early_Blight": {
+            "precision": 0.5145118733509235,
+            "recall": 0.6543624161073825,
+            "f1_score": 0.5760709010339735,
+            "support": 298
+        },
+        "Tomato_Healthy": {
+            "precision": 0.5391304347826087,
+            "recall": 0.39490445859872614,
+            "f1_score": 0.4558823529411765,
+            "support": 157
+        },
+        "Tomato_Late_Blight": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1_score": 0.0,
+            "support": 111
+        },
+        "Tomato_Leaf_Mold": {
+            "precision": 0.6394557823129252,
+            "recall": 0.705,
+            "f1_score": 0.6706302021403092,
+            "support": 400
+        },
+        "Tomato_Mosaic_Virus": {
+            "precision": 0.7441860465116279,
+            "recall": 0.8807339449541285,
+            "f1_score": 0.8067226890756303,
+            "support": 109
+        },
+        "Tomato_Septoria_Leaf_Spot": {
+            "precision": 0.5793103448275863,
+            "recall": 0.7924528301886793,
+            "f1_score": 0.6693227091633466,
+            "support": 106
+        },
+        "Tomato_Spider_mites Two-spotted_spider_mite": {
+            "precision": 0.6541353383458647,
+            "recall": 0.71900826446281,
+            "f1_score": 0.6850393700787402,
+            "support": 121
+        },
+        "Tomato_Target_Spot": {
+            "precision": 0.3959731543624161,
+            "recall": 0.5959595959595959,
+            "f1_score": 0.4758064516129032,
+            "support": 99
+        },
+        "Tomato_Yellow_Leaf_Curl_Virus": {
+            "precision": 0.6271186440677966,
+            "recall": 0.74,
+            "f1_score": 0.6788990825688074,
+            "support": 100
+        }
+    }
+}

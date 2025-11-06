@@ -1,0 +1,1610 @@
+Index,True Label,Predicted Label,Confidence,Correct
+0,Tomato_Bacterial_Spot,Tomato_Yellow_Leaf_Curl_Virus,0.1920,False
+1,Tomato_Bacterial_Spot,Tomato_Target_Spot,0.7106,False
+2,Tomato_Bacterial_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.4467,False
+3,Tomato_Bacterial_Spot,Tomato_Target_Spot,0.5953,False
+4,Tomato_Bacterial_Spot,Tomato_Mosaic_Virus,0.5224,False
+5,Tomato_Bacterial_Spot,Tomato_Septoria_Leaf_Spot,0.2586,False
+6,Tomato_Bacterial_Spot,Tomato_Septoria_Leaf_Spot,0.9310,False
+7,Tomato_Bacterial_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.6254,False
+8,Tomato_Bacterial_Spot,Tomato_Septoria_Leaf_Spot,0.1732,False
+9,Tomato_Bacterial_Spot,Tomato_Yellow_Leaf_Curl_Virus,0.6629,False
+10,Tomato_Bacterial_Spot,Tomato_Septoria_Leaf_Spot,0.1779,False
+11,Tomato_Bacterial_Spot,Tomato_Septoria_Leaf_Spot,0.9494,False
+12,Tomato_Bacterial_Spot,Tomato_Septoria_Leaf_Spot,0.1433,False
+13,Tomato_Bacterial_Spot,Tomato_Septoria_Leaf_Spot,0.8295,False
+14,Tomato_Bacterial_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.3544,False
+15,Tomato_Bacterial_Spot,Tomato_Target_Spot,0.4565,False
+16,Tomato_Bacterial_Spot,Tomato_Yellow_Leaf_Curl_Virus,0.0603,False
+17,Tomato_Bacterial_Spot,Tomato_Septoria_Leaf_Spot,0.9330,False
+18,Tomato_Bacterial_Spot,Tomato_Target_Spot,0.1388,False
+19,Tomato_Bacterial_Spot,Tomato_Septoria_Leaf_Spot,0.5907,False
+20,Tomato_Bacterial_Spot,Tomato_Target_Spot,0.5555,False
+21,Tomato_Bacterial_Spot,Tomato_Yellow_Leaf_Curl_Virus,0.7033,False
+22,Tomato_Bacterial_Spot,Tomato_Mosaic_Virus,0.6622,False
+23,Tomato_Bacterial_Spot,Tomato_Target_Spot,0.2250,False
+24,Tomato_Bacterial_Spot,Tomato_Mosaic_Virus,0.7245,False
+25,Tomato_Bacterial_Spot,Tomato_Target_Spot,0.0405,False
+26,Tomato_Bacterial_Spot,Tomato_Target_Spot,0.0763,False
+27,Tomato_Bacterial_Spot,Tomato_Septoria_Leaf_Spot,0.9926,False
+28,Tomato_Bacterial_Spot,Tomato_Mosaic_Virus,0.3175,False
+29,Tomato_Bacterial_Spot,Tomato_Mosaic_Virus,0.7503,False
+30,Tomato_Bacterial_Spot,Tomato_Target_Spot,0.3513,False
+31,Tomato_Bacterial_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.1464,False
+32,Tomato_Bacterial_Spot,Tomato_Target_Spot,0.3533,False
+33,Tomato_Bacterial_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.0960,False
+34,Tomato_Bacterial_Spot,Tomato_Mosaic_Virus,0.7950,False
+35,Tomato_Bacterial_Spot,Tomato_Yellow_Leaf_Curl_Virus,0.8061,False
+36,Tomato_Bacterial_Spot,Tomato_Septoria_Leaf_Spot,0.4949,False
+37,Tomato_Bacterial_Spot,Tomato_Septoria_Leaf_Spot,0.9477,False
+38,Tomato_Bacterial_Spot,Tomato_Mosaic_Virus,0.2866,False
+39,Tomato_Bacterial_Spot,Tomato_Septoria_Leaf_Spot,0.9700,False
+40,Tomato_Bacterial_Spot,Tomato_Septoria_Leaf_Spot,0.4403,False
+41,Tomato_Bacterial_Spot,Tomato_Mosaic_Virus,0.4405,False
+42,Tomato_Bacterial_Spot,Tomato_Septoria_Leaf_Spot,0.8280,False
+43,Tomato_Bacterial_Spot,Tomato_Yellow_Leaf_Curl_Virus,0.6401,False
+44,Tomato_Bacterial_Spot,Tomato_Septoria_Leaf_Spot,0.6787,False
+45,Tomato_Bacterial_Spot,Tomato_Target_Spot,0.5681,False
+46,Tomato_Bacterial_Spot,Tomato_Yellow_Leaf_Curl_Virus,0.3534,False
+47,Tomato_Bacterial_Spot,Tomato_Septoria_Leaf_Spot,0.9833,False
+48,Tomato_Bacterial_Spot,Tomato_Septoria_Leaf_Spot,0.5962,False
+49,Tomato_Bacterial_Spot,Tomato_Yellow_Leaf_Curl_Virus,0.3814,False
+50,Tomato_Bacterial_Spot,Tomato_Target_Spot,0.8098,False
+51,Tomato_Bacterial_Spot,Tomato_Early_Blight,0.9791,False
+52,Tomato_Bacterial_Spot,Tomato_Early_Blight,0.1025,False
+53,Tomato_Bacterial_Spot,Tomato_Yellow_Leaf_Curl_Virus,0.0871,False
+54,Tomato_Bacterial_Spot,Tomato_Yellow_Leaf_Curl_Virus,0.7471,False
+55,Tomato_Bacterial_Spot,Tomato_Septoria_Leaf_Spot,0.9774,False
+56,Tomato_Bacterial_Spot,Tomato_Mosaic_Virus,0.4070,False
+57,Tomato_Bacterial_Spot,Tomato_Yellow_Leaf_Curl_Virus,0.3172,False
+58,Tomato_Bacterial_Spot,Tomato_Septoria_Leaf_Spot,0.9444,False
+59,Tomato_Bacterial_Spot,Tomato_Yellow_Leaf_Curl_Virus,0.7186,False
+60,Tomato_Bacterial_Spot,Tomato_Yellow_Leaf_Curl_Virus,0.1966,False
+61,Tomato_Bacterial_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.1216,False
+62,Tomato_Bacterial_Spot,Tomato_Septoria_Leaf_Spot,0.9640,False
+63,Tomato_Bacterial_Spot,Tomato_Septoria_Leaf_Spot,0.9205,False
+64,Tomato_Bacterial_Spot,Tomato_Septoria_Leaf_Spot,0.9053,False
+65,Tomato_Bacterial_Spot,Tomato_Target_Spot,0.8985,False
+66,Tomato_Bacterial_Spot,Tomato_Target_Spot,0.2700,False
+67,Tomato_Bacterial_Spot,Tomato_Target_Spot,0.8837,False
+68,Tomato_Bacterial_Spot,Tomato_Mosaic_Virus,0.7108,False
+69,Tomato_Bacterial_Spot,Tomato_Yellow_Leaf_Curl_Virus,0.2416,False
+70,Tomato_Bacterial_Spot,Tomato_Target_Spot,0.7018,False
+71,Tomato_Bacterial_Spot,Tomato_Target_Spot,0.6222,False
+72,Tomato_Bacterial_Spot,Tomato_Target_Spot,0.5401,False
+73,Tomato_Bacterial_Spot,Tomato_Target_Spot,0.6713,False
+74,Tomato_Bacterial_Spot,Tomato_Yellow_Leaf_Curl_Virus,0.1718,False
+75,Tomato_Bacterial_Spot,Tomato_Yellow_Leaf_Curl_Virus,0.2522,False
+76,Tomato_Bacterial_Spot,Tomato_Target_Spot,0.5926,False
+77,Tomato_Bacterial_Spot,Tomato_Target_Spot,0.5577,False
+78,Tomato_Bacterial_Spot,Tomato_Early_Blight,0.6667,False
+79,Tomato_Bacterial_Spot,Tomato_Healthy,0.2921,False
+80,Tomato_Bacterial_Spot,Tomato_Leaf_Mold,0.9924,False
+81,Tomato_Bacterial_Spot,Tomato_Early_Blight,0.8640,False
+82,Tomato_Bacterial_Spot,Tomato_Early_Blight,0.2993,False
+83,Tomato_Bacterial_Spot,Tomato_Healthy,0.8883,False
+84,Tomato_Bacterial_Spot,Tomato_Early_Blight,0.1133,False
+85,Tomato_Bacterial_Spot,Tomato_Early_Blight,0.0950,False
+86,Tomato_Bacterial_Spot,Tomato_Leaf_Mold,0.6836,False
+87,Tomato_Bacterial_Spot,Tomato_Leaf_Mold,0.4940,False
+88,Tomato_Bacterial_Spot,Tomato_Early_Blight,0.5549,False
+89,Tomato_Bacterial_Spot,Tomato_Leaf_Mold,0.6618,False
+90,Tomato_Bacterial_Spot,Tomato_Healthy,0.8344,False
+91,Tomato_Bacterial_Spot,Tomato_Early_Blight,0.1198,False
+92,Tomato_Bacterial_Spot,Tomato_Healthy,0.8619,False
+93,Tomato_Bacterial_Spot,Tomato_Leaf_Mold,0.9681,False
+94,Tomato_Bacterial_Spot,Tomato_Leaf_Mold,0.9935,False
+95,Tomato_Bacterial_Spot,Tomato_Early_Blight,0.6573,False
+96,Tomato_Bacterial_Spot,Tomato_Early_Blight,0.3544,False
+97,Tomato_Bacterial_Spot,Tomato_Early_Blight,0.7118,False
+98,Tomato_Bacterial_Spot,Tomato_Leaf_Mold,0.9859,False
+99,Tomato_Bacterial_Spot,Tomato_Leaf_Mold,0.9613,False
+100,Tomato_Bacterial_Spot,Tomato_Healthy,0.0553,False
+101,Tomato_Bacterial_Spot,Tomato_Leaf_Mold,0.9330,False
+102,Tomato_Bacterial_Spot,Tomato_Leaf_Mold,0.8303,False
+103,Tomato_Bacterial_Spot,Tomato_Early_Blight,0.1546,False
+104,Tomato_Bacterial_Spot,Tomato_Leaf_Mold,0.9896,False
+105,Tomato_Bacterial_Spot,Tomato_Early_Blight,0.8729,False
+106,Tomato_Bacterial_Spot,Tomato_Early_Blight,0.9836,False
+107,Tomato_Bacterial_Spot,Tomato_Healthy,0.1307,False
+108,Tomato_Early_Blight,Tomato_Early_Blight,0.9515,True
+109,Tomato_Early_Blight,Tomato_Leaf_Mold,0.8837,False
+110,Tomato_Early_Blight,Tomato_Early_Blight,0.9092,True
+111,Tomato_Early_Blight,Tomato_Early_Blight,0.9900,True
+112,Tomato_Early_Blight,Tomato_Early_Blight,0.6263,True
+113,Tomato_Early_Blight,Tomato_Early_Blight,0.9677,True
+114,Tomato_Early_Blight,Tomato_Early_Blight,0.9973,True
+115,Tomato_Early_Blight,Tomato_Early_Blight,0.6573,True
+116,Tomato_Early_Blight,Tomato_Early_Blight,0.9988,True
+117,Tomato_Early_Blight,Tomato_Early_Blight,0.9944,True
+118,Tomato_Early_Blight,Tomato_Leaf_Mold,0.0759,False
+119,Tomato_Early_Blight,Tomato_Early_Blight,0.9997,True
+120,Tomato_Early_Blight,Tomato_Early_Blight,0.9995,True
+121,Tomato_Early_Blight,Tomato_Early_Blight,0.9993,True
+122,Tomato_Early_Blight,Tomato_Early_Blight,0.9753,True
+123,Tomato_Early_Blight,Tomato_Early_Blight,0.8544,True
+124,Tomato_Early_Blight,Tomato_Early_Blight,0.9488,True
+125,Tomato_Early_Blight,Tomato_Early_Blight,0.8885,True
+126,Tomato_Early_Blight,Tomato_Early_Blight,0.9868,True
+127,Tomato_Early_Blight,Tomato_Early_Blight,0.9963,True
+128,Tomato_Early_Blight,Tomato_Early_Blight,0.9996,True
+129,Tomato_Early_Blight,Tomato_Early_Blight,0.9242,True
+130,Tomato_Early_Blight,Tomato_Early_Blight,0.9959,True
+131,Tomato_Early_Blight,Tomato_Early_Blight,0.9992,True
+132,Tomato_Early_Blight,Tomato_Early_Blight,0.9975,True
+133,Tomato_Early_Blight,Tomato_Early_Blight,0.9916,True
+134,Tomato_Early_Blight,Tomato_Early_Blight,0.9974,True
+135,Tomato_Early_Blight,Tomato_Early_Blight,0.9994,True
+136,Tomato_Early_Blight,Tomato_Early_Blight,0.9936,True
+137,Tomato_Early_Blight,Tomato_Early_Blight,0.9526,True
+138,Tomato_Early_Blight,Tomato_Early_Blight,0.9978,True
+139,Tomato_Early_Blight,Tomato_Early_Blight,0.9801,True
+140,Tomato_Early_Blight,Tomato_Early_Blight,0.9460,True
+141,Tomato_Early_Blight,Tomato_Early_Blight,0.9987,True
+142,Tomato_Early_Blight,Tomato_Early_Blight,0.8745,True
+143,Tomato_Early_Blight,Tomato_Early_Blight,0.9249,True
+144,Tomato_Early_Blight,Tomato_Early_Blight,0.9391,True
+145,Tomato_Early_Blight,Tomato_Early_Blight,0.5657,True
+146,Tomato_Early_Blight,Tomato_Early_Blight,0.9519,True
+147,Tomato_Early_Blight,Tomato_Early_Blight,0.9842,True
+148,Tomato_Early_Blight,Tomato_Early_Blight,0.9965,True
+149,Tomato_Early_Blight,Tomato_Early_Blight,0.9984,True
+150,Tomato_Early_Blight,Tomato_Early_Blight,0.9973,True
+151,Tomato_Early_Blight,Tomato_Early_Blight,0.9930,True
+152,Tomato_Early_Blight,Tomato_Early_Blight,0.9812,True
+153,Tomato_Early_Blight,Tomato_Early_Blight,0.9862,True
+154,Tomato_Early_Blight,Tomato_Early_Blight,0.8643,True
+155,Tomato_Early_Blight,Tomato_Early_Blight,0.8738,True
+156,Tomato_Early_Blight,Tomato_Early_Blight,0.8921,True
+157,Tomato_Early_Blight,Tomato_Early_Blight,0.9419,True
+158,Tomato_Early_Blight,Tomato_Early_Blight,0.9657,True
+159,Tomato_Early_Blight,Tomato_Early_Blight,0.9719,True
+160,Tomato_Early_Blight,Tomato_Early_Blight,0.9522,True
+161,Tomato_Early_Blight,Tomato_Early_Blight,0.4324,True
+162,Tomato_Early_Blight,Tomato_Early_Blight,0.9370,True
+163,Tomato_Early_Blight,Tomato_Early_Blight,0.9951,True
+164,Tomato_Early_Blight,Tomato_Early_Blight,0.9914,True
+165,Tomato_Early_Blight,Tomato_Early_Blight,0.9670,True
+166,Tomato_Early_Blight,Tomato_Leaf_Mold,0.0779,False
+167,Tomato_Early_Blight,Tomato_Early_Blight,0.9975,True
+168,Tomato_Early_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.6392,False
+169,Tomato_Early_Blight,Tomato_Early_Blight,0.9261,True
+170,Tomato_Early_Blight,Tomato_Early_Blight,0.8446,True
+171,Tomato_Early_Blight,Tomato_Early_Blight,0.5424,True
+172,Tomato_Early_Blight,Tomato_Early_Blight,0.9833,True
+173,Tomato_Early_Blight,Tomato_Early_Blight,0.9969,True
+174,Tomato_Early_Blight,Tomato_Early_Blight,0.9986,True
+175,Tomato_Early_Blight,Tomato_Early_Blight,0.9793,True
+176,Tomato_Early_Blight,Tomato_Early_Blight,0.9571,True
+177,Tomato_Early_Blight,Tomato_Early_Blight,0.9916,True
+178,Tomato_Early_Blight,Tomato_Healthy,0.0497,False
+179,Tomato_Early_Blight,Tomato_Early_Blight,0.7035,True
+180,Tomato_Early_Blight,Tomato_Early_Blight,0.9860,True
+181,Tomato_Early_Blight,Tomato_Early_Blight,0.9936,True
+182,Tomato_Early_Blight,Tomato_Leaf_Mold,0.1380,False
+183,Tomato_Early_Blight,Tomato_Early_Blight,0.9956,True
+184,Tomato_Early_Blight,Tomato_Early_Blight,0.9910,True
+185,Tomato_Early_Blight,Tomato_Healthy,0.4803,False
+186,Tomato_Early_Blight,Tomato_Leaf_Mold,0.5418,False
+187,Tomato_Early_Blight,Tomato_Healthy,0.6370,False
+188,Tomato_Early_Blight,Tomato_Early_Blight,0.8223,True
+189,Tomato_Early_Blight,Tomato_Healthy,0.1901,False
+190,Tomato_Early_Blight,Tomato_Early_Blight,0.9755,True
+191,Tomato_Early_Blight,Tomato_Early_Blight,0.9666,True
+192,Tomato_Early_Blight,Tomato_Early_Blight,0.9829,True
+193,Tomato_Early_Blight,Tomato_Early_Blight,0.6147,True
+194,Tomato_Early_Blight,Tomato_Healthy,0.9048,False
+195,Tomato_Early_Blight,Tomato_Healthy,0.9677,False
+196,Tomato_Early_Blight,Tomato_Healthy,0.6769,False
+197,Tomato_Early_Blight,Tomato_Healthy,0.9282,False
+198,Tomato_Early_Blight,Tomato_Healthy,0.9438,False
+199,Tomato_Early_Blight,Tomato_Healthy,0.8070,False
+200,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9270,False
+201,Tomato_Early_Blight,Tomato_Healthy,0.8005,False
+202,Tomato_Early_Blight,Tomato_Early_Blight,0.7468,True
+203,Tomato_Early_Blight,Tomato_Leaf_Mold,0.8920,False
+204,Tomato_Early_Blight,Tomato_Early_Blight,0.4467,True
+205,Tomato_Early_Blight,Tomato_Early_Blight,0.4657,True
+206,Tomato_Early_Blight,Tomato_Leaf_Mold,1.0000,False
+207,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9347,False
+208,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9987,False
+209,Tomato_Early_Blight,Tomato_Early_Blight,0.0882,True
+210,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9813,False
+211,Tomato_Early_Blight,Tomato_Early_Blight,0.9765,True
+212,Tomato_Early_Blight,Tomato_Healthy,0.0611,False
+213,Tomato_Early_Blight,Tomato_Early_Blight,0.9303,True
+214,Tomato_Early_Blight,Tomato_Early_Blight,0.6724,True
+215,Tomato_Early_Blight,Tomato_Early_Blight,0.6789,True
+216,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9994,False
+217,Tomato_Early_Blight,Tomato_Leaf_Mold,0.0968,False
+218,Tomato_Early_Blight,Tomato_Healthy,0.8820,False
+219,Tomato_Early_Blight,Tomato_Healthy,0.8305,False
+220,Tomato_Early_Blight,Tomato_Healthy,0.8406,False
+221,Tomato_Early_Blight,Tomato_Healthy,0.1894,False
+222,Tomato_Early_Blight,Tomato_Healthy,0.8026,False
+223,Tomato_Early_Blight,Tomato_Early_Blight,0.1911,True
+224,Tomato_Early_Blight,Tomato_Healthy,0.9324,False
+225,Tomato_Early_Blight,Tomato_Early_Blight,0.7199,True
+226,Tomato_Early_Blight,Tomato_Early_Blight,0.7265,True
+227,Tomato_Early_Blight,Tomato_Early_Blight,0.3764,True
+228,Tomato_Early_Blight,Tomato_Early_Blight,0.9211,True
+229,Tomato_Early_Blight,Tomato_Early_Blight,0.3990,True
+230,Tomato_Early_Blight,Tomato_Healthy,0.0778,False
+231,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9966,False
+232,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9530,False
+233,Tomato_Early_Blight,Tomato_Early_Blight,0.0404,True
+234,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9973,False
+235,Tomato_Early_Blight,Tomato_Leaf_Mold,0.1959,False
+236,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9585,False
+237,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9957,False
+238,Tomato_Early_Blight,Tomato_Leaf_Mold,0.1258,False
+239,Tomato_Early_Blight,Tomato_Early_Blight,0.1837,True
+240,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9844,False
+241,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9026,False
+242,Tomato_Early_Blight,Tomato_Healthy,0.8176,False
+243,Tomato_Early_Blight,Tomato_Early_Blight,0.2381,True
+244,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9606,False
+245,Tomato_Early_Blight,Tomato_Healthy,0.6982,False
+246,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9901,False
+247,Tomato_Early_Blight,Tomato_Leaf_Mold,0.8503,False
+248,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9908,False
+249,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9996,False
+250,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9982,False
+251,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9935,False
+252,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9829,False
+253,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9684,False
+254,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9642,False
+255,Tomato_Early_Blight,Tomato_Leaf_Mold,0.8959,False
+256,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9990,False
+257,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9997,False
+258,Tomato_Early_Blight,Tomato_Leaf_Mold,1.0000,False
+259,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9986,False
+260,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9997,False
+261,Tomato_Early_Blight,Tomato_Leaf_Mold,1.0000,False
+262,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9565,False
+263,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9989,False
+264,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9356,False
+265,Tomato_Early_Blight,Tomato_Healthy,0.6443,False
+266,Tomato_Early_Blight,Tomato_Early_Blight,0.1481,True
+267,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9998,False
+268,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9970,False
+269,Tomato_Early_Blight,Tomato_Early_Blight,0.5002,True
+270,Tomato_Early_Blight,Tomato_Leaf_Mold,0.8015,False
+271,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9966,False
+272,Tomato_Early_Blight,Tomato_Leaf_Mold,0.6709,False
+273,Tomato_Early_Blight,Tomato_Leaf_Mold,1.0000,False
+274,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9937,False
+275,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9964,False
+276,Tomato_Early_Blight,Tomato_Leaf_Mold,1.0000,False
+277,Tomato_Early_Blight,Tomato_Early_Blight,0.8989,True
+278,Tomato_Early_Blight,Tomato_Early_Blight,0.7809,True
+279,Tomato_Early_Blight,Tomato_Early_Blight,0.9344,True
+280,Tomato_Early_Blight,Tomato_Early_Blight,0.9268,True
+281,Tomato_Early_Blight,Tomato_Healthy,0.2605,False
+282,Tomato_Early_Blight,Tomato_Leaf_Mold,0.5908,False
+283,Tomato_Early_Blight,Tomato_Early_Blight,0.9094,True
+284,Tomato_Early_Blight,Tomato_Leaf_Mold,0.8084,False
+285,Tomato_Early_Blight,Tomato_Leaf_Mold,0.8014,False
+286,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9938,False
+287,Tomato_Early_Blight,Tomato_Early_Blight,0.8963,True
+288,Tomato_Early_Blight,Tomato_Early_Blight,0.3900,True
+289,Tomato_Early_Blight,Tomato_Early_Blight,0.9267,True
+290,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9955,False
+291,Tomato_Early_Blight,Tomato_Early_Blight,0.9796,True
+292,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9774,False
+293,Tomato_Early_Blight,Tomato_Early_Blight,0.9844,True
+294,Tomato_Early_Blight,Tomato_Early_Blight,0.9564,True
+295,Tomato_Early_Blight,Tomato_Leaf_Mold,0.6453,False
+296,Tomato_Early_Blight,Tomato_Early_Blight,0.8733,True
+297,Tomato_Early_Blight,Tomato_Leaf_Mold,0.0965,False
+298,Tomato_Early_Blight,Tomato_Healthy,0.2519,False
+299,Tomato_Early_Blight,Tomato_Early_Blight,0.1824,True
+300,Tomato_Early_Blight,Tomato_Early_Blight,0.9125,True
+301,Tomato_Early_Blight,Tomato_Early_Blight,0.9901,True
+302,Tomato_Early_Blight,Tomato_Early_Blight,0.9927,True
+303,Tomato_Early_Blight,Tomato_Healthy,0.2356,False
+304,Tomato_Early_Blight,Tomato_Healthy,0.2540,False
+305,Tomato_Early_Blight,Tomato_Healthy,0.6610,False
+306,Tomato_Early_Blight,Tomato_Early_Blight,0.9000,True
+307,Tomato_Early_Blight,Tomato_Healthy,0.5768,False
+308,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9327,False
+309,Tomato_Early_Blight,Tomato_Early_Blight,0.0035,True
+310,Tomato_Early_Blight,Tomato_Leaf_Mold,0.2430,False
+311,Tomato_Early_Blight,Tomato_Early_Blight,0.0602,True
+312,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9431,False
+313,Tomato_Early_Blight,Tomato_Leaf_Mold,0.7213,False
+314,Tomato_Early_Blight,Tomato_Early_Blight,0.1307,True
+315,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9787,False
+316,Tomato_Early_Blight,Tomato_Leaf_Mold,0.5617,False
+317,Tomato_Early_Blight,Tomato_Healthy,0.1401,False
+318,Tomato_Early_Blight,Tomato_Leaf_Mold,0.8954,False
+319,Tomato_Early_Blight,Tomato_Leaf_Mold,0.4508,False
+320,Tomato_Early_Blight,Tomato_Early_Blight,0.9532,True
+321,Tomato_Early_Blight,Tomato_Early_Blight,0.4951,True
+322,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9904,False
+323,Tomato_Early_Blight,Tomato_Leaf_Mold,0.8589,False
+324,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9993,False
+325,Tomato_Early_Blight,Tomato_Leaf_Mold,0.7992,False
+326,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9562,False
+327,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9066,False
+328,Tomato_Early_Blight,Tomato_Early_Blight,0.8871,True
+329,Tomato_Early_Blight,Tomato_Early_Blight,0.7069,True
+330,Tomato_Early_Blight,Tomato_Leaf_Mold,0.3499,False
+331,Tomato_Early_Blight,Tomato_Early_Blight,0.9605,True
+332,Tomato_Early_Blight,Tomato_Early_Blight,0.9794,True
+333,Tomato_Early_Blight,Tomato_Early_Blight,0.9693,True
+334,Tomato_Early_Blight,Tomato_Early_Blight,0.9802,True
+335,Tomato_Early_Blight,Tomato_Early_Blight,0.9557,True
+336,Tomato_Early_Blight,Tomato_Early_Blight,0.9975,True
+337,Tomato_Early_Blight,Tomato_Early_Blight,0.8398,True
+338,Tomato_Early_Blight,Tomato_Leaf_Mold,0.1816,False
+339,Tomato_Early_Blight,Tomato_Early_Blight,0.8166,True
+340,Tomato_Early_Blight,Tomato_Early_Blight,0.7606,True
+341,Tomato_Early_Blight,Tomato_Leaf_Mold,0.6926,False
+342,Tomato_Early_Blight,Tomato_Early_Blight,0.9917,True
+343,Tomato_Early_Blight,Tomato_Leaf_Mold,0.5543,False
+344,Tomato_Early_Blight,Tomato_Leaf_Mold,0.2280,False
+345,Tomato_Early_Blight,Tomato_Early_Blight,0.9783,True
+346,Tomato_Early_Blight,Tomato_Leaf_Mold,0.8558,False
+347,Tomato_Early_Blight,Tomato_Leaf_Mold,0.9754,False
+348,Tomato_Early_Blight,Tomato_Early_Blight,0.9928,True
+349,Tomato_Early_Blight,Tomato_Early_Blight,0.9264,True
+350,Tomato_Early_Blight,Tomato_Early_Blight,0.9891,True
+351,Tomato_Early_Blight,Tomato_Early_Blight,0.9572,True
+352,Tomato_Early_Blight,Tomato_Early_Blight,0.9607,True
+353,Tomato_Early_Blight,Tomato_Early_Blight,0.4724,True
+354,Tomato_Early_Blight,Tomato_Early_Blight,0.9734,True
+355,Tomato_Early_Blight,Tomato_Early_Blight,0.3919,True
+356,Tomato_Early_Blight,Tomato_Early_Blight,0.8907,True
+357,Tomato_Early_Blight,Tomato_Early_Blight,0.9774,True
+358,Tomato_Early_Blight,Tomato_Early_Blight,0.0507,True
+359,Tomato_Early_Blight,Tomato_Leaf_Mold,0.8612,False
+360,Tomato_Early_Blight,Tomato_Early_Blight,0.8848,True
+361,Tomato_Early_Blight,Tomato_Early_Blight,0.9945,True
+362,Tomato_Early_Blight,Tomato_Early_Blight,0.9902,True
+363,Tomato_Early_Blight,Tomato_Early_Blight,0.9952,True
+364,Tomato_Early_Blight,Tomato_Early_Blight,0.9992,True
+365,Tomato_Early_Blight,Tomato_Early_Blight,0.9996,True
+366,Tomato_Early_Blight,Tomato_Early_Blight,0.9755,True
+367,Tomato_Early_Blight,Tomato_Early_Blight,0.9988,True
+368,Tomato_Early_Blight,Tomato_Leaf_Mold,0.2042,False
+369,Tomato_Early_Blight,Tomato_Early_Blight,0.9512,True
+370,Tomato_Early_Blight,Tomato_Early_Blight,0.9684,True
+371,Tomato_Early_Blight,Tomato_Early_Blight,0.9993,True
+372,Tomato_Early_Blight,Tomato_Early_Blight,0.9956,True
+373,Tomato_Early_Blight,Tomato_Early_Blight,0.9968,True
+374,Tomato_Early_Blight,Tomato_Early_Blight,0.9787,True
+375,Tomato_Early_Blight,Tomato_Early_Blight,0.9968,True
+376,Tomato_Early_Blight,Tomato_Early_Blight,0.9971,True
+377,Tomato_Early_Blight,Tomato_Early_Blight,0.9987,True
+378,Tomato_Early_Blight,Tomato_Early_Blight,0.9992,True
+379,Tomato_Early_Blight,Tomato_Early_Blight,0.9980,True
+380,Tomato_Early_Blight,Tomato_Early_Blight,0.9894,True
+381,Tomato_Early_Blight,Tomato_Early_Blight,0.9905,True
+382,Tomato_Early_Blight,Tomato_Early_Blight,0.9987,True
+383,Tomato_Early_Blight,Tomato_Early_Blight,0.9730,True
+384,Tomato_Early_Blight,Tomato_Early_Blight,0.9980,True
+385,Tomato_Early_Blight,Tomato_Early_Blight,0.9456,True
+386,Tomato_Early_Blight,Tomato_Early_Blight,0.9836,True
+387,Tomato_Early_Blight,Tomato_Early_Blight,0.9806,True
+388,Tomato_Early_Blight,Tomato_Early_Blight,0.9890,True
+389,Tomato_Early_Blight,Tomato_Early_Blight,0.8777,True
+390,Tomato_Early_Blight,Tomato_Early_Blight,0.9892,True
+391,Tomato_Early_Blight,Tomato_Early_Blight,0.9584,True
+392,Tomato_Early_Blight,Tomato_Early_Blight,0.9820,True
+393,Tomato_Early_Blight,Tomato_Early_Blight,0.9926,True
+394,Tomato_Early_Blight,Tomato_Early_Blight,0.9868,True
+395,Tomato_Early_Blight,Tomato_Early_Blight,0.9742,True
+396,Tomato_Early_Blight,Tomato_Early_Blight,0.9966,True
+397,Tomato_Early_Blight,Tomato_Early_Blight,0.8838,True
+398,Tomato_Early_Blight,Tomato_Early_Blight,0.9959,True
+399,Tomato_Early_Blight,Tomato_Early_Blight,0.9947,True
+400,Tomato_Early_Blight,Tomato_Early_Blight,0.9967,True
+401,Tomato_Early_Blight,Tomato_Early_Blight,0.9842,True
+402,Tomato_Early_Blight,Tomato_Early_Blight,0.9888,True
+403,Tomato_Early_Blight,Tomato_Leaf_Mold,0.6707,False
+404,Tomato_Early_Blight,Tomato_Early_Blight,0.9645,True
+405,Tomato_Early_Blight,Tomato_Early_Blight,0.9627,True
+406,Tomato_Healthy,Tomato_Early_Blight,0.9285,False
+407,Tomato_Healthy,Tomato_Early_Blight,0.9795,False
+408,Tomato_Healthy,Tomato_Early_Blight,0.9295,False
+409,Tomato_Healthy,Tomato_Early_Blight,0.9523,False
+410,Tomato_Healthy,Tomato_Early_Blight,0.9992,False
+411,Tomato_Healthy,Tomato_Early_Blight,0.9611,False
+412,Tomato_Healthy,Tomato_Early_Blight,0.9882,False
+413,Tomato_Healthy,Tomato_Early_Blight,0.9926,False
+414,Tomato_Healthy,Tomato_Early_Blight,0.9828,False
+415,Tomato_Healthy,Tomato_Early_Blight,0.9793,False
+416,Tomato_Healthy,Tomato_Early_Blight,0.9532,False
+417,Tomato_Healthy,Tomato_Early_Blight,0.9654,False
+418,Tomato_Healthy,Tomato_Early_Blight,0.6466,False
+419,Tomato_Healthy,Tomato_Early_Blight,0.9583,False
+420,Tomato_Healthy,Tomato_Early_Blight,0.9574,False
+421,Tomato_Healthy,Tomato_Early_Blight,0.7936,False
+422,Tomato_Healthy,Tomato_Early_Blight,0.9992,False
+423,Tomato_Healthy,Tomato_Healthy,0.7905,True
+424,Tomato_Healthy,Tomato_Healthy,0.9198,True
+425,Tomato_Healthy,Tomato_Healthy,0.9933,True
+426,Tomato_Healthy,Tomato_Healthy,0.6677,True
+427,Tomato_Healthy,Tomato_Healthy,0.9202,True
+428,Tomato_Healthy,Tomato_Yellow_Leaf_Curl_Virus,0.3027,False
+429,Tomato_Healthy,Tomato_Healthy,0.8078,True
+430,Tomato_Healthy,Tomato_Target_Spot,0.0426,False
+431,Tomato_Healthy,Tomato_Target_Spot,0.8004,False
+432,Tomato_Healthy,Tomato_Target_Spot,0.3939,False
+433,Tomato_Healthy,Tomato_Healthy,0.9665,True
+434,Tomato_Healthy,Tomato_Healthy,0.9879,True
+435,Tomato_Healthy,Tomato_Early_Blight,0.9555,False
+436,Tomato_Healthy,Tomato_Yellow_Leaf_Curl_Virus,0.0518,False
+437,Tomato_Healthy,Tomato_Healthy,0.3568,True
+438,Tomato_Healthy,Tomato_Early_Blight,0.7264,False
+439,Tomato_Healthy,Tomato_Healthy,0.6296,True
+440,Tomato_Healthy,Tomato_Healthy,0.7749,True
+441,Tomato_Healthy,Tomato_Healthy,0.5512,True
+442,Tomato_Healthy,Tomato_Healthy,0.5933,True
+443,Tomato_Healthy,Tomato_Healthy,0.7971,True
+444,Tomato_Healthy,Tomato_Healthy,0.9833,True
+445,Tomato_Healthy,Tomato_Healthy,0.7115,True
+446,Tomato_Healthy,Tomato_Healthy,0.1624,True
+447,Tomato_Healthy,Tomato_Healthy,0.9819,True
+448,Tomato_Healthy,Tomato_Healthy,0.9059,True
+449,Tomato_Healthy,Tomato_Healthy,0.4087,True
+450,Tomato_Healthy,Tomato_Early_Blight,0.2998,False
+451,Tomato_Healthy,Tomato_Healthy,0.4547,True
+452,Tomato_Healthy,Tomato_Healthy,0.9933,True
+453,Tomato_Healthy,Tomato_Healthy,0.9481,True
+454,Tomato_Healthy,Tomato_Healthy,0.9630,True
+455,Tomato_Healthy,Tomato_Early_Blight,0.3775,False
+456,Tomato_Healthy,Tomato_Healthy,0.9398,True
+457,Tomato_Healthy,Tomato_Early_Blight,0.1778,False
+458,Tomato_Healthy,Tomato_Healthy,0.8846,True
+459,Tomato_Healthy,Tomato_Healthy,0.9785,True
+460,Tomato_Healthy,Tomato_Healthy,0.7184,True
+461,Tomato_Healthy,Tomato_Healthy,0.5522,True
+462,Tomato_Healthy,Tomato_Healthy,0.8982,True
+463,Tomato_Healthy,Tomato_Early_Blight,0.4617,False
+464,Tomato_Healthy,Tomato_Healthy,0.9086,True
+465,Tomato_Healthy,Tomato_Healthy,0.8182,True
+466,Tomato_Healthy,Tomato_Early_Blight,0.7171,False
+467,Tomato_Healthy,Tomato_Healthy,0.7586,True
+468,Tomato_Healthy,Tomato_Early_Blight,0.4585,False
+469,Tomato_Healthy,Tomato_Healthy,0.8524,True
+470,Tomato_Healthy,Tomato_Healthy,0.5933,True
+471,Tomato_Healthy,Tomato_Leaf_Mold,0.3783,False
+472,Tomato_Healthy,Tomato_Healthy,0.7928,True
+473,Tomato_Healthy,Tomato_Healthy,0.7533,True
+474,Tomato_Healthy,Tomato_Early_Blight,0.4095,False
+475,Tomato_Healthy,Tomato_Healthy,0.3157,True
+476,Tomato_Healthy,Tomato_Leaf_Mold,0.9651,False
+477,Tomato_Healthy,Tomato_Leaf_Mold,0.9948,False
+478,Tomato_Healthy,Tomato_Leaf_Mold,0.9018,False
+479,Tomato_Healthy,Tomato_Healthy,0.6822,True
+480,Tomato_Healthy,Tomato_Healthy,0.4992,True
+481,Tomato_Healthy,Tomato_Healthy,0.9716,True
+482,Tomato_Healthy,Tomato_Healthy,0.9538,True
+483,Tomato_Healthy,Tomato_Leaf_Mold,0.4461,False
+484,Tomato_Healthy,Tomato_Healthy,0.9827,True
+485,Tomato_Healthy,Tomato_Healthy,0.7210,True
+486,Tomato_Healthy,Tomato_Healthy,0.9908,True
+487,Tomato_Healthy,Tomato_Healthy,0.9814,True
+488,Tomato_Healthy,Tomato_Healthy,0.4507,True
+489,Tomato_Healthy,Tomato_Healthy,0.5588,True
+490,Tomato_Healthy,Tomato_Early_Blight,0.5486,False
+491,Tomato_Healthy,Tomato_Healthy,0.8090,True
+492,Tomato_Healthy,Tomato_Leaf_Mold,0.9467,False
+493,Tomato_Healthy,Tomato_Early_Blight,0.7539,False
+494,Tomato_Healthy,Tomato_Early_Blight,0.6320,False
+495,Tomato_Healthy,Tomato_Healthy,0.8431,True
+496,Tomato_Healthy,Tomato_Leaf_Mold,0.7440,False
+497,Tomato_Healthy,Tomato_Healthy,0.1857,True
+498,Tomato_Healthy,Tomato_Early_Blight,0.4687,False
+499,Tomato_Healthy,Tomato_Early_Blight,0.3872,False
+500,Tomato_Healthy,Tomato_Leaf_Mold,0.6526,False
+501,Tomato_Healthy,Tomato_Leaf_Mold,0.4173,False
+502,Tomato_Healthy,Tomato_Early_Blight,0.8921,False
+503,Tomato_Healthy,Tomato_Healthy,0.7429,True
+504,Tomato_Healthy,Tomato_Early_Blight,0.0740,False
+505,Tomato_Healthy,Tomato_Early_Blight,0.4103,False
+506,Tomato_Healthy,Tomato_Leaf_Mold,0.9045,False
+507,Tomato_Healthy,Tomato_Leaf_Mold,0.1734,False
+508,Tomato_Healthy,Tomato_Leaf_Mold,0.9868,False
+509,Tomato_Healthy,Tomato_Early_Blight,0.1512,False
+510,Tomato_Healthy,Tomato_Early_Blight,0.7814,False
+511,Tomato_Healthy,Tomato_Yellow_Leaf_Curl_Virus,0.6787,False
+512,Tomato_Healthy,Tomato_Healthy,0.8415,True
+513,Tomato_Healthy,Tomato_Healthy,0.6780,True
+514,Tomato_Healthy,Tomato_Early_Blight,0.3058,False
+515,Tomato_Healthy,Tomato_Early_Blight,0.7814,False
+516,Tomato_Healthy,Tomato_Healthy,0.9939,True
+517,Tomato_Healthy,Tomato_Leaf_Mold,0.9136,False
+518,Tomato_Healthy,Tomato_Healthy,0.8309,True
+519,Tomato_Healthy,Tomato_Leaf_Mold,0.6831,False
+520,Tomato_Healthy,Tomato_Leaf_Mold,0.1012,False
+521,Tomato_Healthy,Tomato_Healthy,0.4865,True
+522,Tomato_Healthy,Tomato_Healthy,0.2266,True
+523,Tomato_Healthy,Tomato_Early_Blight,0.2296,False
+524,Tomato_Healthy,Tomato_Leaf_Mold,0.6099,False
+525,Tomato_Healthy,Tomato_Early_Blight,0.9707,False
+526,Tomato_Healthy,Tomato_Leaf_Mold,0.6033,False
+527,Tomato_Healthy,Tomato_Leaf_Mold,0.9033,False
+528,Tomato_Healthy,Tomato_Leaf_Mold,0.7670,False
+529,Tomato_Healthy,Tomato_Leaf_Mold,0.9260,False
+530,Tomato_Healthy,Tomato_Healthy,0.8005,True
+531,Tomato_Healthy,Tomato_Healthy,0.9081,True
+532,Tomato_Healthy,Tomato_Healthy,0.1112,True
+533,Tomato_Healthy,Tomato_Early_Blight,0.7790,False
+534,Tomato_Healthy,Tomato_Leaf_Mold,0.0639,False
+535,Tomato_Healthy,Tomato_Leaf_Mold,0.4240,False
+536,Tomato_Healthy,Tomato_Healthy,0.4473,True
+537,Tomato_Healthy,Tomato_Early_Blight,0.5981,False
+538,Tomato_Healthy,Tomato_Leaf_Mold,0.7322,False
+539,Tomato_Healthy,Tomato_Leaf_Mold,0.9987,False
+540,Tomato_Healthy,Tomato_Early_Blight,0.6483,False
+541,Tomato_Healthy,Tomato_Healthy,0.8168,True
+542,Tomato_Healthy,Tomato_Leaf_Mold,0.8172,False
+543,Tomato_Healthy,Tomato_Leaf_Mold,0.2497,False
+544,Tomato_Healthy,Tomato_Early_Blight,0.1710,False
+545,Tomato_Healthy,Tomato_Healthy,0.9469,True
+546,Tomato_Healthy,Tomato_Healthy,0.9489,True
+547,Tomato_Healthy,Tomato_Early_Blight,0.9430,False
+548,Tomato_Healthy,Tomato_Early_Blight,0.6803,False
+549,Tomato_Healthy,Tomato_Healthy,0.0403,True
+550,Tomato_Healthy,Tomato_Early_Blight,0.7144,False
+551,Tomato_Healthy,Tomato_Early_Blight,0.9532,False
+552,Tomato_Healthy,Tomato_Early_Blight,0.3522,False
+553,Tomato_Healthy,Tomato_Early_Blight,0.8686,False
+554,Tomato_Healthy,Tomato_Healthy,0.5162,True
+555,Tomato_Healthy,Tomato_Leaf_Mold,0.2446,False
+556,Tomato_Healthy,Tomato_Early_Blight,0.9818,False
+557,Tomato_Healthy,Tomato_Early_Blight,0.9790,False
+558,Tomato_Healthy,Tomato_Early_Blight,0.9910,False
+559,Tomato_Healthy,Tomato_Early_Blight,0.9914,False
+560,Tomato_Healthy,Tomato_Early_Blight,0.9857,False
+561,Tomato_Healthy,Tomato_Early_Blight,0.9871,False
+562,Tomato_Healthy,Tomato_Early_Blight,0.9893,False
+563,Tomato_Late_Blight,Tomato_Target_Spot,0.5531,False
+564,Tomato_Late_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.8341,False
+565,Tomato_Late_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.2477,False
+566,Tomato_Late_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.8955,False
+567,Tomato_Late_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.0836,False
+568,Tomato_Late_Blight,Tomato_Mosaic_Virus,0.3523,False
+569,Tomato_Late_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.4792,False
+570,Tomato_Late_Blight,Tomato_Target_Spot,0.4585,False
+571,Tomato_Late_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.7492,False
+572,Tomato_Late_Blight,Tomato_Septoria_Leaf_Spot,0.2678,False
+573,Tomato_Late_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.5497,False
+574,Tomato_Late_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.3379,False
+575,Tomato_Late_Blight,Tomato_Septoria_Leaf_Spot,0.9112,False
+576,Tomato_Late_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.6164,False
+577,Tomato_Late_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.8638,False
+578,Tomato_Late_Blight,Tomato_Septoria_Leaf_Spot,0.9352,False
+579,Tomato_Late_Blight,Tomato_Septoria_Leaf_Spot,0.8332,False
+580,Tomato_Late_Blight,Tomato_Target_Spot,0.7505,False
+581,Tomato_Late_Blight,Tomato_Target_Spot,0.7050,False
+582,Tomato_Late_Blight,Tomato_Mosaic_Virus,0.0316,False
+583,Tomato_Late_Blight,Tomato_Target_Spot,0.1034,False
+584,Tomato_Late_Blight,Tomato_Healthy,0.1181,False
+585,Tomato_Late_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.5700,False
+586,Tomato_Late_Blight,Tomato_Leaf_Mold,0.0917,False
+587,Tomato_Late_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.7895,False
+588,Tomato_Late_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.4026,False
+589,Tomato_Late_Blight,Tomato_Septoria_Leaf_Spot,0.9260,False
+590,Tomato_Late_Blight,Tomato_Septoria_Leaf_Spot,0.4731,False
+591,Tomato_Late_Blight,Tomato_Early_Blight,0.6847,False
+592,Tomato_Late_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.4445,False
+593,Tomato_Late_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.9364,False
+594,Tomato_Late_Blight,Tomato_Septoria_Leaf_Spot,0.6918,False
+595,Tomato_Late_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.5639,False
+596,Tomato_Late_Blight,Tomato_Septoria_Leaf_Spot,0.0850,False
+597,Tomato_Late_Blight,Tomato_Septoria_Leaf_Spot,0.5741,False
+598,Tomato_Late_Blight,Tomato_Mosaic_Virus,0.5014,False
+599,Tomato_Late_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.9875,False
+600,Tomato_Late_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.7108,False
+601,Tomato_Late_Blight,Tomato_Healthy,0.5934,False
+602,Tomato_Late_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.8434,False
+603,Tomato_Late_Blight,Tomato_Mosaic_Virus,0.5333,False
+604,Tomato_Late_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.7616,False
+605,Tomato_Late_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.8012,False
+606,Tomato_Late_Blight,Tomato_Mosaic_Virus,0.0197,False
+607,Tomato_Late_Blight,Tomato_Mosaic_Virus,0.5091,False
+608,Tomato_Late_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.9111,False
+609,Tomato_Late_Blight,Tomato_Target_Spot,0.2788,False
+610,Tomato_Late_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.5664,False
+611,Tomato_Late_Blight,Tomato_Septoria_Leaf_Spot,0.8498,False
+612,Tomato_Late_Blight,Tomato_Target_Spot,0.5580,False
+613,Tomato_Late_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.7205,False
+614,Tomato_Late_Blight,Tomato_Early_Blight,0.9776,False
+615,Tomato_Late_Blight,Tomato_Early_Blight,0.9831,False
+616,Tomato_Late_Blight,Tomato_Early_Blight,0.7232,False
+617,Tomato_Late_Blight,Tomato_Septoria_Leaf_Spot,0.6414,False
+618,Tomato_Late_Blight,Tomato_Target_Spot,0.3722,False
+619,Tomato_Late_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.2346,False
+620,Tomato_Late_Blight,Tomato_Target_Spot,0.1091,False
+621,Tomato_Late_Blight,Tomato_Mosaic_Virus,0.8420,False
+622,Tomato_Late_Blight,Tomato_Mosaic_Virus,0.5329,False
+623,Tomato_Late_Blight,Tomato_Healthy,0.8888,False
+624,Tomato_Late_Blight,Tomato_Target_Spot,0.0581,False
+625,Tomato_Late_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.7207,False
+626,Tomato_Late_Blight,Tomato_Target_Spot,0.7687,False
+627,Tomato_Late_Blight,Tomato_Septoria_Leaf_Spot,0.2301,False
+628,Tomato_Late_Blight,Tomato_Septoria_Leaf_Spot,0.4680,False
+629,Tomato_Late_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.8705,False
+630,Tomato_Late_Blight,Tomato_Target_Spot,0.8526,False
+631,Tomato_Late_Blight,Tomato_Septoria_Leaf_Spot,0.3964,False
+632,Tomato_Late_Blight,Tomato_Target_Spot,0.3579,False
+633,Tomato_Late_Blight,Tomato_Healthy,0.9153,False
+634,Tomato_Late_Blight,Tomato_Septoria_Leaf_Spot,0.1162,False
+635,Tomato_Late_Blight,Tomato_Target_Spot,0.5216,False
+636,Tomato_Late_Blight,Tomato_Septoria_Leaf_Spot,0.7897,False
+637,Tomato_Late_Blight,Tomato_Septoria_Leaf_Spot,0.9868,False
+638,Tomato_Late_Blight,Tomato_Healthy,0.9805,False
+639,Tomato_Late_Blight,Tomato_Septoria_Leaf_Spot,0.1641,False
+640,Tomato_Late_Blight,Tomato_Healthy,0.8543,False
+641,Tomato_Late_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.3972,False
+642,Tomato_Late_Blight,Tomato_Leaf_Mold,0.8611,False
+643,Tomato_Late_Blight,Tomato_Healthy,0.9888,False
+644,Tomato_Late_Blight,Tomato_Healthy,0.9966,False
+645,Tomato_Late_Blight,Tomato_Septoria_Leaf_Spot,0.0045,False
+646,Tomato_Late_Blight,Tomato_Leaf_Mold,0.0894,False
+647,Tomato_Late_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.9654,False
+648,Tomato_Late_Blight,Tomato_Leaf_Mold,0.5965,False
+649,Tomato_Late_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.9808,False
+650,Tomato_Late_Blight,Tomato_Leaf_Mold,0.8080,False
+651,Tomato_Late_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.9952,False
+652,Tomato_Late_Blight,Tomato_Leaf_Mold,0.6954,False
+653,Tomato_Late_Blight,Tomato_Healthy,0.0134,False
+654,Tomato_Late_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.9935,False
+655,Tomato_Late_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.9833,False
+656,Tomato_Late_Blight,Tomato_Leaf_Mold,0.9559,False
+657,Tomato_Late_Blight,Tomato_Early_Blight,0.0437,False
+658,Tomato_Late_Blight,Tomato_Leaf_Mold,0.9796,False
+659,Tomato_Late_Blight,Tomato_Healthy,0.5890,False
+660,Tomato_Late_Blight,Tomato_Healthy,0.6585,False
+661,Tomato_Late_Blight,Tomato_Healthy,0.1854,False
+662,Tomato_Late_Blight,Tomato_Healthy,0.4565,False
+663,Tomato_Late_Blight,Tomato_Early_Blight,0.2009,False
+664,Tomato_Late_Blight,Tomato_Healthy,0.1479,False
+665,Tomato_Late_Blight,Tomato_Healthy,0.1901,False
+666,Tomato_Late_Blight,Tomato_Yellow_Leaf_Curl_Virus,0.4949,False
+667,Tomato_Late_Blight,Tomato_Leaf_Mold,0.9801,False
+668,Tomato_Late_Blight,Tomato_Healthy,0.9715,False
+669,Tomato_Late_Blight,Tomato_Leaf_Mold,0.9718,False
+670,Tomato_Late_Blight,Tomato_Leaf_Mold,0.9899,False
+671,Tomato_Late_Blight,Tomato_Early_Blight,0.2807,False
+672,Tomato_Late_Blight,Tomato_Early_Blight,0.9504,False
+673,Tomato_Late_Blight,Tomato_Early_Blight,0.9661,False
+674,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9956,False
+675,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9321,False
+676,Tomato_Leaf_Mold,Tomato_Early_Blight,0.5493,False
+677,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9475,False
+678,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9875,False
+679,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.8985,True
+680,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.7296,True
+681,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9709,False
+682,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9590,False
+683,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.2379,True
+684,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9698,True
+685,Tomato_Leaf_Mold,Tomato_Early_Blight,0.0288,False
+686,Tomato_Leaf_Mold,Tomato_Early_Blight,0.4292,False
+687,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.5937,True
+688,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.7637,True
+689,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.0148,True
+690,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9003,False
+691,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9036,False
+692,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.2860,True
+693,Tomato_Leaf_Mold,Tomato_Healthy,0.0668,False
+694,Tomato_Leaf_Mold,Tomato_Early_Blight,0.5002,False
+695,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9068,False
+696,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9993,False
+697,Tomato_Leaf_Mold,Tomato_Early_Blight,0.5995,False
+698,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.6615,True
+699,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9602,True
+700,Tomato_Leaf_Mold,Tomato_Early_Blight,0.6544,False
+701,Tomato_Leaf_Mold,Tomato_Early_Blight,0.7660,False
+702,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9720,False
+703,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9799,False
+704,Tomato_Leaf_Mold,Tomato_Early_Blight,0.8752,False
+705,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9163,False
+706,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9238,False
+707,Tomato_Leaf_Mold,Tomato_Early_Blight,0.3891,False
+708,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9391,False
+709,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9485,False
+710,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9023,False
+711,Tomato_Leaf_Mold,Tomato_Early_Blight,0.7081,False
+712,Tomato_Leaf_Mold,Tomato_Healthy,0.9888,False
+713,Tomato_Leaf_Mold,Tomato_Target_Spot,0.0447,False
+714,Tomato_Leaf_Mold,Tomato_Healthy,0.9926,False
+715,Tomato_Leaf_Mold,Tomato_Septoria_Leaf_Spot,0.9921,False
+716,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9115,True
+717,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.3443,True
+718,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.8017,True
+719,Tomato_Leaf_Mold,Tomato_Healthy,0.9730,False
+720,Tomato_Leaf_Mold,Tomato_Healthy,0.3299,False
+721,Tomato_Leaf_Mold,Tomato_Healthy,0.9247,False
+722,Tomato_Leaf_Mold,Tomato_Septoria_Leaf_Spot,0.4884,False
+723,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.2893,True
+724,Tomato_Leaf_Mold,Tomato_Yellow_Leaf_Curl_Virus,0.0372,False
+725,Tomato_Leaf_Mold,Tomato_Yellow_Leaf_Curl_Virus,0.1817,False
+726,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.8415,True
+727,Tomato_Leaf_Mold,Tomato_Healthy,0.8289,False
+728,Tomato_Leaf_Mold,Tomato_Healthy,0.8668,False
+729,Tomato_Leaf_Mold,Tomato_Healthy,0.9753,False
+730,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9772,True
+731,Tomato_Leaf_Mold,Tomato_Healthy,0.4884,False
+732,Tomato_Leaf_Mold,Tomato_Leaf_Mold,1.0000,True
+733,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9971,True
+734,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9999,True
+735,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9918,True
+736,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9998,True
+737,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9998,True
+738,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9980,True
+739,Tomato_Leaf_Mold,Tomato_Leaf_Mold,1.0000,True
+740,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9985,True
+741,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.7758,True
+742,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9940,True
+743,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9998,True
+744,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9996,True
+745,Tomato_Leaf_Mold,Tomato_Leaf_Mold,1.0000,True
+746,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9933,True
+747,Tomato_Leaf_Mold,Tomato_Leaf_Mold,1.0000,True
+748,Tomato_Leaf_Mold,Tomato_Leaf_Mold,1.0000,True
+749,Tomato_Leaf_Mold,Tomato_Leaf_Mold,1.0000,True
+750,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9999,True
+751,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9923,True
+752,Tomato_Leaf_Mold,Tomato_Leaf_Mold,1.0000,True
+753,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9997,True
+754,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9840,True
+755,Tomato_Leaf_Mold,Tomato_Leaf_Mold,1.0000,True
+756,Tomato_Leaf_Mold,Tomato_Healthy,0.0519,False
+757,Tomato_Leaf_Mold,Tomato_Early_Blight,0.8667,False
+758,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9869,True
+759,Tomato_Leaf_Mold,Tomato_Leaf_Mold,1.0000,True
+760,Tomato_Leaf_Mold,Tomato_Leaf_Mold,1.0000,True
+761,Tomato_Leaf_Mold,Tomato_Leaf_Mold,1.0000,True
+762,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9982,True
+763,Tomato_Leaf_Mold,Tomato_Leaf_Mold,1.0000,True
+764,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9998,True
+765,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9838,True
+766,Tomato_Leaf_Mold,Tomato_Early_Blight,0.1288,False
+767,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9999,True
+768,Tomato_Leaf_Mold,Tomato_Early_Blight,0.1185,False
+769,Tomato_Leaf_Mold,Tomato_Early_Blight,0.1091,False
+770,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.6004,True
+771,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.8133,True
+772,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9905,True
+773,Tomato_Leaf_Mold,Tomato_Healthy,0.7728,False
+774,Tomato_Leaf_Mold,Tomato_Healthy,0.7894,False
+775,Tomato_Leaf_Mold,Tomato_Healthy,0.5480,False
+776,Tomato_Leaf_Mold,Tomato_Early_Blight,0.0216,False
+777,Tomato_Leaf_Mold,Tomato_Healthy,0.9644,False
+778,Tomato_Leaf_Mold,Tomato_Healthy,0.9816,False
+779,Tomato_Leaf_Mold,Tomato_Early_Blight,0.8452,False
+780,Tomato_Leaf_Mold,Tomato_Early_Blight,0.5953,False
+781,Tomato_Leaf_Mold,Tomato_Healthy,0.4553,False
+782,Tomato_Leaf_Mold,Tomato_Healthy,0.3534,False
+783,Tomato_Leaf_Mold,Tomato_Healthy,0.6518,False
+784,Tomato_Leaf_Mold,Tomato_Healthy,0.9918,False
+785,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9998,True
+786,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.8945,True
+787,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9875,True
+788,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9996,True
+789,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9671,True
+790,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9980,True
+791,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9992,True
+792,Tomato_Leaf_Mold,Tomato_Healthy,0.3702,False
+793,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9998,True
+794,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9884,True
+795,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9997,True
+796,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9622,True
+797,Tomato_Leaf_Mold,Tomato_Early_Blight,0.1597,False
+798,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9946,True
+799,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9968,True
+800,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9973,True
+801,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9999,True
+802,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9999,True
+803,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9999,True
+804,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9965,True
+805,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9999,True
+806,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9937,True
+807,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9795,True
+808,Tomato_Leaf_Mold,Tomato_Early_Blight,0.7622,False
+809,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9966,True
+810,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9990,True
+811,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9547,True
+812,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9944,True
+813,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9992,True
+814,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9971,True
+815,Tomato_Leaf_Mold,Tomato_Early_Blight,0.1652,False
+816,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9972,True
+817,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9940,True
+818,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9972,True
+819,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.8270,True
+820,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9768,True
+821,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9989,True
+822,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9768,True
+823,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9986,True
+824,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9994,True
+825,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9978,True
+826,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.8869,True
+827,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.8501,True
+828,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9996,True
+829,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9881,True
+830,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9995,True
+831,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9748,True
+832,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.6923,True
+833,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9791,True
+834,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9540,True
+835,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9999,True
+836,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9879,True
+837,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9719,True
+838,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9798,True
+839,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9997,True
+840,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9993,True
+841,Tomato_Leaf_Mold,Tomato_Early_Blight,0.1361,False
+842,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9996,True
+843,Tomato_Leaf_Mold,Tomato_Leaf_Mold,1.0000,True
+844,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9932,True
+845,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9993,True
+846,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9895,True
+847,Tomato_Leaf_Mold,Tomato_Yellow_Leaf_Curl_Virus,0.0129,False
+848,Tomato_Leaf_Mold,Tomato_Leaf_Mold,1.0000,True
+849,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9359,True
+850,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9807,True
+851,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.7786,True
+852,Tomato_Leaf_Mold,Tomato_Early_Blight,0.0192,False
+853,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9968,True
+854,Tomato_Leaf_Mold,Tomato_Leaf_Mold,1.0000,True
+855,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9966,True
+856,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9758,True
+857,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9984,True
+858,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9683,True
+859,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9734,True
+860,Tomato_Leaf_Mold,Tomato_Early_Blight,0.7596,False
+861,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9985,True
+862,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9969,True
+863,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9998,True
+864,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9999,True
+865,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9988,True
+866,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9958,True
+867,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9419,True
+868,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9981,True
+869,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9977,True
+870,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9995,True
+871,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9993,True
+872,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9905,True
+873,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9918,True
+874,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9957,True
+875,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9824,True
+876,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9970,True
+877,Tomato_Leaf_Mold,Tomato_Healthy,0.4018,False
+878,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9086,True
+879,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9814,True
+880,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9753,True
+881,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9945,True
+882,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9983,True
+883,Tomato_Leaf_Mold,Tomato_Leaf_Mold,1.0000,True
+884,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.8904,True
+885,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9993,True
+886,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9918,True
+887,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9859,True
+888,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.3586,True
+889,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9970,True
+890,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9979,True
+891,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.7711,True
+892,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9772,True
+893,Tomato_Leaf_Mold,Tomato_Leaf_Mold,1.0000,True
+894,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.7008,True
+895,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9947,True
+896,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9993,True
+897,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.8277,True
+898,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9338,True
+899,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9412,True
+900,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9997,True
+901,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9963,True
+902,Tomato_Leaf_Mold,Tomato_Leaf_Mold,1.0000,True
+903,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9141,True
+904,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9569,True
+905,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.7382,True
+906,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9848,True
+907,Tomato_Leaf_Mold,Tomato_Leaf_Mold,1.0000,True
+908,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9946,True
+909,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9743,True
+910,Tomato_Leaf_Mold,Tomato_Leaf_Mold,1.0000,True
+911,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9942,True
+912,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9942,True
+913,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9990,True
+914,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.8963,True
+915,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9968,True
+916,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9996,True
+917,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9986,True
+918,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9955,True
+919,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9186,True
+920,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9970,True
+921,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9954,True
+922,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.8996,True
+923,Tomato_Leaf_Mold,Tomato_Healthy,0.4227,False
+924,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.3841,True
+925,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9978,True
+926,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9992,True
+927,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9754,True
+928,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9953,True
+929,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9131,True
+930,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9993,True
+931,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9993,True
+932,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9987,True
+933,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9991,True
+934,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.8170,True
+935,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9978,True
+936,Tomato_Leaf_Mold,Tomato_Leaf_Mold,1.0000,True
+937,Tomato_Leaf_Mold,Tomato_Leaf_Mold,1.0000,True
+938,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9978,True
+939,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.6195,True
+940,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9930,True
+941,Tomato_Leaf_Mold,Tomato_Early_Blight,0.0427,False
+942,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9985,True
+943,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9854,True
+944,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9986,True
+945,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9988,True
+946,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9996,True
+947,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9975,True
+948,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9978,True
+949,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9908,True
+950,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9736,True
+951,Tomato_Leaf_Mold,Tomato_Healthy,0.7224,False
+952,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9921,True
+953,Tomato_Leaf_Mold,Tomato_Early_Blight,0.3551,False
+954,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.7742,True
+955,Tomato_Leaf_Mold,Tomato_Healthy,0.2420,False
+956,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9997,True
+957,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.8187,True
+958,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9925,True
+959,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9771,True
+960,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9998,True
+961,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9943,True
+962,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9762,True
+963,Tomato_Leaf_Mold,Tomato_Leaf_Mold,1.0000,True
+964,Tomato_Leaf_Mold,Tomato_Early_Blight,0.7789,False
+965,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9580,True
+966,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9978,True
+967,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9999,True
+968,Tomato_Leaf_Mold,Tomato_Early_Blight,0.2629,False
+969,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9986,True
+970,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9173,True
+971,Tomato_Leaf_Mold,Tomato_Early_Blight,0.7224,False
+972,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9940,True
+973,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.2372,True
+974,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9991,True
+975,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9843,True
+976,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9455,True
+977,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9761,True
+978,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.8991,True
+979,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9984,True
+980,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9762,True
+981,Tomato_Leaf_Mold,Tomato_Healthy,0.2229,False
+982,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.8915,True
+983,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9418,True
+984,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9883,True
+985,Tomato_Leaf_Mold,Tomato_Healthy,0.8023,False
+986,Tomato_Leaf_Mold,Tomato_Early_Blight,0.0418,False
+987,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9956,True
+988,Tomato_Leaf_Mold,Tomato_Leaf_Mold,1.0000,True
+989,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9999,True
+990,Tomato_Leaf_Mold,Tomato_Healthy,0.8126,False
+991,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9933,True
+992,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9866,True
+993,Tomato_Leaf_Mold,Tomato_Healthy,0.8743,False
+994,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.7896,True
+995,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9554,False
+996,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9710,False
+997,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9776,False
+998,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9769,True
+999,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9574,False
+1000,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.8882,True
+1001,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9488,False
+1002,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.6721,True
+1003,Tomato_Leaf_Mold,Tomato_Early_Blight,0.7246,False
+1004,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9452,False
+1005,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9955,True
+1006,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9483,False
+1007,Tomato_Leaf_Mold,Tomato_Early_Blight,0.6787,False
+1008,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.8777,True
+1009,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9194,False
+1010,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9010,False
+1011,Tomato_Leaf_Mold,Tomato_Early_Blight,0.8607,False
+1012,Tomato_Leaf_Mold,Tomato_Early_Blight,0.8964,False
+1013,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9739,True
+1014,Tomato_Leaf_Mold,Tomato_Early_Blight,0.1181,False
+1015,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.1127,True
+1016,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.8797,True
+1017,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.8464,True
+1018,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.7303,True
+1019,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9975,False
+1020,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9982,True
+1021,Tomato_Leaf_Mold,Tomato_Early_Blight,0.8017,False
+1022,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.3893,True
+1023,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.8364,True
+1024,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9476,True
+1025,Tomato_Leaf_Mold,Tomato_Early_Blight,0.5662,False
+1026,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.5512,True
+1027,Tomato_Leaf_Mold,Tomato_Early_Blight,0.7002,False
+1028,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9512,False
+1029,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9764,True
+1030,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9862,False
+1031,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9400,False
+1032,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.0737,True
+1033,Tomato_Leaf_Mold,Tomato_Early_Blight,0.7964,False
+1034,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.8551,True
+1035,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9519,True
+1036,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9577,False
+1037,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9382,False
+1038,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9251,True
+1039,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9744,False
+1040,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.5413,True
+1041,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.6252,True
+1042,Tomato_Leaf_Mold,Tomato_Early_Blight,0.5003,False
+1043,Tomato_Leaf_Mold,Tomato_Early_Blight,0.1025,False
+1044,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.9912,True
+1045,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.8910,True
+1046,Tomato_Leaf_Mold,Tomato_Early_Blight,0.8921,False
+1047,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9983,False
+1048,Tomato_Leaf_Mold,Tomato_Early_Blight,0.7303,False
+1049,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.3721,True
+1050,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.3390,True
+1051,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9951,False
+1052,Tomato_Leaf_Mold,Tomato_Early_Blight,0.8853,False
+1053,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.4743,True
+1054,Tomato_Leaf_Mold,Tomato_Leaf_Mold,0.1544,True
+1055,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9840,False
+1056,Tomato_Leaf_Mold,Tomato_Early_Blight,0.8569,False
+1057,Tomato_Leaf_Mold,Tomato_Early_Blight,0.0962,False
+1058,Tomato_Leaf_Mold,Tomato_Early_Blight,0.2179,False
+1059,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9782,False
+1060,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9397,False
+1061,Tomato_Leaf_Mold,Tomato_Early_Blight,0.8672,False
+1062,Tomato_Leaf_Mold,Tomato_Early_Blight,0.8798,False
+1063,Tomato_Leaf_Mold,Tomato_Early_Blight,0.6055,False
+1064,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9843,False
+1065,Tomato_Leaf_Mold,Tomato_Early_Blight,0.7894,False
+1066,Tomato_Leaf_Mold,Tomato_Early_Blight,0.8443,False
+1067,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9920,False
+1068,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9838,False
+1069,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9372,False
+1070,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9772,False
+1071,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9785,False
+1072,Tomato_Leaf_Mold,Tomato_Early_Blight,0.9817,False
+1073,Tomato_Leaf_Mold,Tomato_Early_Blight,0.8638,False
+1074,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9812,True
+1075,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9082,True
+1076,Tomato_Mosaic_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.3213,False
+1077,Tomato_Mosaic_Virus,Tomato_Septoria_Leaf_Spot,0.8263,False
+1078,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.8368,True
+1079,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9837,True
+1080,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9788,True
+1081,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9901,True
+1082,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9723,True
+1083,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9809,True
+1084,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9570,True
+1085,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9571,True
+1086,Tomato_Mosaic_Virus,Tomato_Septoria_Leaf_Spot,0.7499,False
+1087,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9986,True
+1088,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9967,True
+1089,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.8327,True
+1090,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9410,True
+1091,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9729,True
+1092,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.7708,True
+1093,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9844,True
+1094,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9703,True
+1095,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9548,True
+1096,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.6311,True
+1097,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9439,True
+1098,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.8917,True
+1099,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9812,True
+1100,Tomato_Mosaic_Virus,Tomato_Septoria_Leaf_Spot,0.1294,False
+1101,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9689,True
+1102,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9635,True
+1103,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9922,True
+1104,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9831,True
+1105,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9470,True
+1106,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9893,True
+1107,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9924,True
+1108,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.8664,True
+1109,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.8200,True
+1110,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9973,True
+1111,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9853,True
+1112,Tomato_Mosaic_Virus,Tomato_Septoria_Leaf_Spot,0.7932,False
+1113,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9856,True
+1114,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.7831,True
+1115,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9368,True
+1116,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9332,True
+1117,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9301,True
+1118,Tomato_Mosaic_Virus,Tomato_Septoria_Leaf_Spot,0.5970,False
+1119,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9079,True
+1120,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.6474,True
+1121,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9863,True
+1122,Tomato_Mosaic_Virus,Tomato_Septoria_Leaf_Spot,0.6022,False
+1123,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.8961,True
+1124,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9866,True
+1125,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9969,True
+1126,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9811,True
+1127,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.8197,True
+1128,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9768,True
+1129,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9966,True
+1130,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.8960,True
+1131,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.5772,True
+1132,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9609,True
+1133,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9489,True
+1134,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.8520,True
+1135,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9842,True
+1136,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.6744,True
+1137,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9875,True
+1138,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9823,True
+1139,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9827,True
+1140,Tomato_Mosaic_Virus,Tomato_Septoria_Leaf_Spot,0.2728,False
+1141,Tomato_Mosaic_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.2211,False
+1142,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9516,True
+1143,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9807,True
+1144,Tomato_Mosaic_Virus,Tomato_Septoria_Leaf_Spot,0.5651,False
+1145,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9847,True
+1146,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.7702,True
+1147,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9962,True
+1148,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9918,True
+1149,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9870,True
+1150,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9202,True
+1151,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9254,True
+1152,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9840,True
+1153,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9165,True
+1154,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9975,True
+1155,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.5031,True
+1156,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9852,True
+1157,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9835,True
+1158,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9357,True
+1159,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.6027,True
+1160,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9529,True
+1161,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9915,True
+1162,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9900,True
+1163,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9855,True
+1164,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9293,True
+1165,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9903,True
+1166,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.7085,True
+1167,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9662,True
+1168,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9105,True
+1169,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9799,True
+1170,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9752,True
+1171,Tomato_Mosaic_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.1750,False
+1172,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9929,True
+1173,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9712,True
+1174,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9264,True
+1175,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9519,True
+1176,Tomato_Mosaic_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.0427,False
+1177,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9796,True
+1178,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9642,True
+1179,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9035,True
+1180,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9872,True
+1181,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9865,True
+1182,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,0.9760,True
+1183,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9564,True
+1184,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.8928,True
+1185,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,1.0000,True
+1186,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9598,True
+1187,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9941,True
+1188,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9906,True
+1189,Tomato_Septoria_Leaf_Spot,Tomato_Mosaic_Virus,0.7217,False
+1190,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9842,True
+1191,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9910,True
+1192,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9913,True
+1193,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9742,True
+1194,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9971,True
+1195,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9975,True
+1196,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9995,True
+1197,Tomato_Septoria_Leaf_Spot,Tomato_Yellow_Leaf_Curl_Virus,0.4625,False
+1198,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9973,True
+1199,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.5388,True
+1200,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9994,True
+1201,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.3534,True
+1202,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9832,True
+1203,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.8513,True
+1204,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9887,True
+1205,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9702,True
+1206,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9997,True
+1207,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.5980,True
+1208,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9429,True
+1209,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9912,True
+1210,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9819,True
+1211,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9962,True
+1212,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9585,True
+1213,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9075,True
+1214,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9734,True
+1215,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9879,True
+1216,Tomato_Septoria_Leaf_Spot,Tomato_Mosaic_Virus,0.0633,False
+1217,Tomato_Septoria_Leaf_Spot,Tomato_Target_Spot,0.1725,False
+1218,Tomato_Septoria_Leaf_Spot,Tomato_Mosaic_Virus,0.7744,False
+1219,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.8716,True
+1220,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9349,True
+1221,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9928,True
+1222,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9148,True
+1223,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9797,True
+1224,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.1789,True
+1225,Tomato_Septoria_Leaf_Spot,Tomato_Mosaic_Virus,0.0863,False
+1226,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9671,True
+1227,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9948,True
+1228,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9933,True
+1229,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.1250,True
+1230,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9212,True
+1231,Tomato_Septoria_Leaf_Spot,Tomato_Target_Spot,0.5230,False
+1232,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9855,True
+1233,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9029,True
+1234,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.7093,True
+1235,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.7848,True
+1236,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.7793,True
+1237,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9932,True
+1238,Tomato_Septoria_Leaf_Spot,Tomato_Mosaic_Virus,0.9368,False
+1239,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9866,True
+1240,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.8957,True
+1241,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9699,True
+1242,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9827,True
+1243,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9026,True
+1244,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9970,True
+1245,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9912,True
+1246,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9979,True
+1247,Tomato_Septoria_Leaf_Spot,Tomato_Target_Spot,0.1666,False
+1248,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9928,True
+1249,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9983,True
+1250,Tomato_Septoria_Leaf_Spot,Tomato_Yellow_Leaf_Curl_Virus,0.1765,False
+1251,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9933,True
+1252,Tomato_Septoria_Leaf_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.4160,False
+1253,Tomato_Septoria_Leaf_Spot,Tomato_Yellow_Leaf_Curl_Virus,0.3639,False
+1254,Tomato_Septoria_Leaf_Spot,Tomato_Yellow_Leaf_Curl_Virus,0.1170,False
+1255,Tomato_Septoria_Leaf_Spot,Tomato_Mosaic_Virus,0.0526,False
+1256,Tomato_Septoria_Leaf_Spot,Tomato_Yellow_Leaf_Curl_Virus,0.0228,False
+1257,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.8410,True
+1258,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.8955,True
+1259,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.8754,True
+1260,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9423,True
+1261,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.7237,True
+1262,Tomato_Septoria_Leaf_Spot,Tomato_Yellow_Leaf_Curl_Virus,0.1031,False
+1263,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.4310,True
+1264,Tomato_Septoria_Leaf_Spot,Tomato_Yellow_Leaf_Curl_Virus,0.0119,False
+1265,Tomato_Septoria_Leaf_Spot,Tomato_Mosaic_Virus,0.0373,False
+1266,Tomato_Septoria_Leaf_Spot,Tomato_Mosaic_Virus,0.4651,False
+1267,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9788,True
+1268,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9995,True
+1269,Tomato_Septoria_Leaf_Spot,Tomato_Mosaic_Virus,0.4122,False
+1270,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.8701,True
+1271,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.4381,True
+1272,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.8311,True
+1273,Tomato_Septoria_Leaf_Spot,Tomato_Target_Spot,0.5770,False
+1274,Tomato_Septoria_Leaf_Spot,Tomato_Target_Spot,0.8854,False
+1275,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9967,True
+1276,Tomato_Septoria_Leaf_Spot,Tomato_Target_Spot,0.3204,False
+1277,Tomato_Septoria_Leaf_Spot,Tomato_Mosaic_Virus,0.9242,False
+1278,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9757,True
+1279,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9986,True
+1280,Tomato_Septoria_Leaf_Spot,Tomato_Yellow_Leaf_Curl_Virus,0.1133,False
+1281,Tomato_Septoria_Leaf_Spot,Tomato_Target_Spot,0.3351,False
+1282,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9993,True
+1283,Tomato_Septoria_Leaf_Spot,Tomato_Mosaic_Virus,0.6630,False
+1284,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.1640,True
+1285,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9365,True
+1286,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9888,True
+1287,Tomato_Septoria_Leaf_Spot,Tomato_Target_Spot,0.5121,False
+1288,Tomato_Septoria_Leaf_Spot,Tomato_Septoria_Leaf_Spot,0.9711,True
+1289,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Mosaic_Virus,0.8434,False
+1290,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.6983,True
+1291,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Target_Spot,0.3999,False
+1292,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.9151,True
+1293,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.9802,True
+1294,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Mosaic_Virus,0.4151,False
+1295,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Mosaic_Virus,0.4002,False
+1296,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.4316,True
+1297,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Target_Spot,0.3495,False
+1298,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Yellow_Leaf_Curl_Virus,0.0683,False
+1299,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Target_Spot,0.0705,False
+1300,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.6028,True
+1301,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Target_Spot,0.7215,False
+1302,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Target_Spot,0.3683,False
+1303,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Mosaic_Virus,0.3269,False
+1304,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Mosaic_Virus,0.7953,False
+1305,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Yellow_Leaf_Curl_Virus,0.0811,False
+1306,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Target_Spot,0.1726,False
+1307,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.7577,True
+1308,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.8111,True
+1309,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.9859,True
+1310,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Mosaic_Virus,0.5521,False
+1311,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.9903,True
+1312,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.9669,True
+1313,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.9775,True
+1314,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.9663,True
+1315,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.9279,True
+1316,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Yellow_Leaf_Curl_Virus,0.1192,False
+1317,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.8134,True
+1318,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.7699,True
+1319,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.9928,True
+1320,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Mosaic_Virus,0.8392,False
+1321,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.9583,True
+1322,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Mosaic_Virus,0.2200,False
+1323,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.7984,True
+1324,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.9614,True
+1325,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.4133,True
+1326,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Target_Spot,0.4929,False
+1327,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Yellow_Leaf_Curl_Virus,0.1099,False
+1328,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.7300,True
+1329,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.6305,True
+1330,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Yellow_Leaf_Curl_Virus,0.2054,False
+1331,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.1097,True
+1332,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.9218,True
+1333,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.9522,True
+1334,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.9791,True
+1335,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Mosaic_Virus,0.0882,False
+1336,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.8461,True
+1337,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.9551,True
+1338,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.6943,True
+1339,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.9813,True
+1340,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Early_Blight,0.9326,False
+1341,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Leaf_Mold,0.8385,False
+1342,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Early_Blight,0.9995,False
+1343,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.9864,True
+1344,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.8312,True
+1345,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.9790,True
+1346,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.7300,True
+1347,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.5131,True
+1348,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Yellow_Leaf_Curl_Virus,0.0467,False
+1349,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.7505,True
+1350,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Mosaic_Virus,0.4009,False
+1351,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Target_Spot,0.7329,False
+1352,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Mosaic_Virus,0.7592,False
+1353,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.6355,True
+1354,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.9421,True
+1355,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.6605,True
+1356,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.6750,True
+1357,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Target_Spot,0.8450,False
+1358,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Target_Spot,0.1171,False
+1359,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.9877,True
+1360,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.7715,True
+1361,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.8325,True
+1362,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Mosaic_Virus,0.2381,False
+1363,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Mosaic_Virus,0.9734,False
+1364,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.8388,True
+1365,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.9495,True
+1366,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Mosaic_Virus,0.5563,False
+1367,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.6002,True
+1368,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.1456,True
+1369,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.9941,True
+1370,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Mosaic_Virus,0.4652,False
+1371,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.9305,True
+1372,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.6781,True
+1373,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.8978,True
+1374,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Target_Spot,0.0375,False
+1375,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Mosaic_Virus,0.8739,False
+1376,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.2788,True
+1377,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.8398,True
+1378,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.9632,True
+1379,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.9392,True
+1380,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Mosaic_Virus,0.7338,False
+1381,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.7819,True
+1382,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Mosaic_Virus,0.4533,False
+1383,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.8140,True
+1384,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Target_Spot,0.6561,False
+1385,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.7082,True
+1386,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Target_Spot,0.5516,False
+1387,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.9283,True
+1388,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Mosaic_Virus,0.4598,False
+1389,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Yellow_Leaf_Curl_Virus,0.0013,False
+1390,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.9565,True
+1391,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.4262,True
+1392,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.6012,True
+1393,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.9706,True
+1394,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Yellow_Leaf_Curl_Virus,0.2692,False
+1395,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.9872,True
+1396,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.8854,True
+1397,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.9891,True
+1398,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Mosaic_Virus,0.5859,False
+1399,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Mosaic_Virus,0.3855,False
+1400,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Target_Spot,0.1918,False
+1401,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.8962,True
+1402,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Yellow_Leaf_Curl_Virus,0.8402,False
+1403,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.9792,True
+1404,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Target_Spot,0.2146,False
+1405,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Target_Spot,0.0370,False
+1406,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites Two-spotted_spider_mite,0.9306,True
+1407,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Mosaic_Virus,0.3635,False
+1408,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Early_Blight,0.5469,False
+1409,Tomato_Spider_mites Two-spotted_spider_mite,Tomato_Early_Blight,0.9991,False
+1410,Tomato_Target_Spot,Tomato_Septoria_Leaf_Spot,0.7110,False
+1411,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.7929,False
+1412,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.5237,False
+1413,Tomato_Target_Spot,Tomato_Target_Spot,0.9123,True
+1414,Tomato_Target_Spot,Tomato_Target_Spot,0.6999,True
+1415,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.9073,False
+1416,Tomato_Target_Spot,Tomato_Target_Spot,0.6603,True
+1417,Tomato_Target_Spot,Tomato_Target_Spot,0.7689,True
+1418,Tomato_Target_Spot,Tomato_Target_Spot,0.0861,True
+1419,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.6912,False
+1420,Tomato_Target_Spot,Tomato_Target_Spot,0.8692,True
+1421,Tomato_Target_Spot,Tomato_Target_Spot,0.7689,True
+1422,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.8300,False
+1423,Tomato_Target_Spot,Tomato_Target_Spot,0.1271,True
+1424,Tomato_Target_Spot,Tomato_Mosaic_Virus,0.4514,False
+1425,Tomato_Target_Spot,Tomato_Target_Spot,0.8869,True
+1426,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.8389,False
+1427,Tomato_Target_Spot,Tomato_Target_Spot,0.5017,True
+1428,Tomato_Target_Spot,Tomato_Target_Spot,0.8179,True
+1429,Tomato_Target_Spot,Tomato_Target_Spot,0.7760,True
+1430,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.0748,False
+1431,Tomato_Target_Spot,Tomato_Mosaic_Virus,0.0481,False
+1432,Tomato_Target_Spot,Tomato_Target_Spot,0.8228,True
+1433,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.6751,False
+1434,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.9104,False
+1435,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.5630,False
+1436,Tomato_Target_Spot,Tomato_Target_Spot,0.5713,True
+1437,Tomato_Target_Spot,Tomato_Target_Spot,0.8624,True
+1438,Tomato_Target_Spot,Tomato_Target_Spot,0.6559,True
+1439,Tomato_Target_Spot,Tomato_Target_Spot,0.7777,True
+1440,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.6801,False
+1441,Tomato_Target_Spot,Tomato_Septoria_Leaf_Spot,0.3787,False
+1442,Tomato_Target_Spot,Tomato_Target_Spot,0.1560,True
+1443,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.1630,False
+1444,Tomato_Target_Spot,Tomato_Target_Spot,0.6277,True
+1445,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.1687,False
+1446,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.2685,False
+1447,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.5844,False
+1448,Tomato_Target_Spot,Tomato_Septoria_Leaf_Spot,0.5270,False
+1449,Tomato_Target_Spot,Tomato_Target_Spot,0.9088,True
+1450,Tomato_Target_Spot,Tomato_Target_Spot,0.7177,True
+1451,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.1676,False
+1452,Tomato_Target_Spot,Tomato_Target_Spot,0.4866,True
+1453,Tomato_Target_Spot,Tomato_Target_Spot,0.4385,True
+1454,Tomato_Target_Spot,Tomato_Target_Spot,0.4121,True
+1455,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.1908,False
+1456,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.9811,False
+1457,Tomato_Target_Spot,Tomato_Target_Spot,0.9405,True
+1458,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.7735,False
+1459,Tomato_Target_Spot,Tomato_Target_Spot,0.5259,True
+1460,Tomato_Target_Spot,Tomato_Target_Spot,0.5837,True
+1461,Tomato_Target_Spot,Tomato_Target_Spot,0.6746,True
+1462,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.8409,False
+1463,Tomato_Target_Spot,Tomato_Mosaic_Virus,0.5855,False
+1464,Tomato_Target_Spot,Tomato_Target_Spot,0.8003,True
+1465,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.9029,False
+1466,Tomato_Target_Spot,Tomato_Target_Spot,0.8910,True
+1467,Tomato_Target_Spot,Tomato_Target_Spot,0.4851,True
+1468,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.6568,False
+1469,Tomato_Target_Spot,Tomato_Target_Spot,0.8899,True
+1470,Tomato_Target_Spot,Tomato_Target_Spot,0.6415,True
+1471,Tomato_Target_Spot,Tomato_Target_Spot,0.8678,True
+1472,Tomato_Target_Spot,Tomato_Target_Spot,0.7673,True
+1473,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.7497,False
+1474,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.9042,False
+1475,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.8111,False
+1476,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.7546,False
+1477,Tomato_Target_Spot,Tomato_Target_Spot,0.6230,True
+1478,Tomato_Target_Spot,Tomato_Target_Spot,0.3478,True
+1479,Tomato_Target_Spot,Tomato_Target_Spot,0.3087,True
+1480,Tomato_Target_Spot,Tomato_Yellow_Leaf_Curl_Virus,0.0846,False
+1481,Tomato_Target_Spot,Tomato_Target_Spot,0.7360,True
+1482,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.0537,False
+1483,Tomato_Target_Spot,Tomato_Target_Spot,0.9207,True
+1484,Tomato_Target_Spot,Tomato_Target_Spot,0.9613,True
+1485,Tomato_Target_Spot,Tomato_Target_Spot,0.4716,True
+1486,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.8844,False
+1487,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.6470,False
+1488,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.3091,False
+1489,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.7314,False
+1490,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.8807,False
+1491,Tomato_Target_Spot,Tomato_Target_Spot,0.8989,True
+1492,Tomato_Target_Spot,Tomato_Target_Spot,0.3107,True
+1493,Tomato_Target_Spot,Tomato_Target_Spot,0.6692,True
+1494,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.6271,False
+1495,Tomato_Target_Spot,Tomato_Septoria_Leaf_Spot,0.5410,False
+1496,Tomato_Target_Spot,Tomato_Mosaic_Virus,0.5928,False
+1497,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.3319,False
+1498,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.8718,False
+1499,Tomato_Target_Spot,Tomato_Yellow_Leaf_Curl_Virus,0.6035,False
+1500,Tomato_Target_Spot,Tomato_Target_Spot,0.0881,True
+1501,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.2845,False
+1502,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.9161,False
+1503,Tomato_Target_Spot,Tomato_Mosaic_Virus,0.4349,False
+1504,Tomato_Target_Spot,Tomato_Septoria_Leaf_Spot,0.5484,False
+1505,Tomato_Target_Spot,Tomato_Spider_mites Two-spotted_spider_mite,0.2521,False
+1506,Tomato_Target_Spot,Tomato_Leaf_Mold,0.9967,False
+1507,Tomato_Target_Spot,Tomato_Healthy,0.2961,False
+1508,Tomato_Target_Spot,Tomato_Early_Blight,0.0375,False
+1509,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Early_Blight,0.9435,False
+1510,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Early_Blight,0.9884,False
+1511,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.8749,True
+1512,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9178,True
+1513,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9805,True
+1514,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9353,True
+1515,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.8228,True
+1516,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9050,True
+1517,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.7540,True
+1518,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.8340,True
+1519,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9520,True
+1520,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9698,True
+1521,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.2840,True
+1522,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9932,True
+1523,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Target_Spot,0.3056,False
+1524,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.8940,True
+1525,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9644,True
+1526,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9960,True
+1527,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9036,True
+1528,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9980,True
+1529,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.8546,True
+1530,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.1018,True
+1531,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.1473,True
+1532,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9961,True
+1533,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9637,True
+1534,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9574,True
+1535,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Mosaic_Virus,0.2967,False
+1536,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9995,True
+1537,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.8435,True
+1538,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9910,True
+1539,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Mosaic_Virus,0.0429,False
+1540,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9910,True
+1541,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9888,True
+1542,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9944,True
+1543,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9503,True
+1544,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Mosaic_Virus,0.1026,False
+1545,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9914,True
+1546,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Spider_mites Two-spotted_spider_mite,0.1907,False
+1547,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.5109,True
+1548,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Mosaic_Virus,0.4290,False
+1549,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.2456,True
+1550,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9794,True
+1551,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.8342,True
+1552,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Mosaic_Virus,0.1919,False
+1553,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9642,True
+1554,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.5056,True
+1555,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Target_Spot,0.0088,False
+1556,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Mosaic_Virus,0.1273,False
+1557,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Mosaic_Virus,0.3335,False
+1558,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9229,True
+1559,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9565,True
+1560,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Mosaic_Virus,0.4657,False
+1561,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9018,True
+1562,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9643,True
+1563,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9435,True
+1564,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.7489,True
+1565,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.7793,True
+1566,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.6223,True
+1567,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Target_Spot,0.0493,False
+1568,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.6657,True
+1569,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9201,True
+1570,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9425,True
+1571,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9837,True
+1572,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.8237,True
+1573,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9993,True
+1574,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9870,True
+1575,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Mosaic_Virus,0.5242,False
+1576,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9960,True
+1577,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9355,True
+1578,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9659,True
+1579,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Mosaic_Virus,0.0880,False
+1580,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.8109,True
+1581,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9913,True
+1582,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.2879,True
+1583,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Mosaic_Virus,0.6125,False
+1584,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9987,True
+1585,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9876,True
+1586,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.5084,True
+1587,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9915,True
+1588,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Mosaic_Virus,0.2707,False
+1589,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9937,True
+1590,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Mosaic_Virus,0.8448,False
+1591,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9700,True
+1592,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Mosaic_Virus,0.5531,False
+1593,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9973,True
+1594,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9231,True
+1595,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.8027,True
+1596,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9651,True
+1597,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9222,True
+1598,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Mosaic_Virus,0.3247,False
+1599,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Mosaic_Virus,0.8536,False
+1600,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.9300,True
+1601,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,0.8166,True
+1602,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Early_Blight,0.9678,False
+1603,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Early_Blight,0.9696,False
+1604,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Early_Blight,0.9527,False
+1605,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Early_Blight,0.9444,False
+1606,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Early_Blight,0.9936,False
+1607,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Early_Blight,0.8424,False
+1608,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Early_Blight,0.9208,False

@@ -1,0 +1,36 @@
+============================================================
+DISEASE CLASSIFICATION - EVALUATION REPORT
+============================================================
+
+Timestamp: 2025-11-03 21:28:14
+Total Samples: 1609
+Number of Classes: 10
+
+============================================================
+OVERALL METRICS
+============================================================
+Accuracy:  0.5942
+Precision: 0.5158
+Recall:    0.5942
+F1-Score:  0.5466
+
+============================================================
+PER-CLASS METRICS
+============================================================
+
+                                             precision    recall  f1-score   support
+
+                      Tomato_Bacterial_Spot     0.0000    0.0000    0.0000       108
+                        Tomato_Early_Blight     0.4975    0.6711    0.5714       298
+                             Tomato_Healthy     0.5918    0.3694    0.4549       157
+                         Tomato_Late_Blight     0.0000    0.0000    0.0000       111
+                           Tomato_Leaf_Mold     0.6357    0.7025    0.6675       400
+                        Tomato_Mosaic_Virus     0.7795    0.9083    0.8390       109
+                  Tomato_Septoria_Leaf_Spot     0.6214    0.8208    0.7073       106
+Tomato_Spider_mites Two-spotted_spider_mite     0.6447    0.8099    0.7179       121
+                         Tomato_Target_Spot     0.4602    0.5253    0.4906        99
+              Tomato_Yellow_Leaf_Curl_Virus     0.6000    0.8100    0.6894       100
+
+                                   accuracy                         0.5942      1609
+                                  macro avg     0.4831    0.5617    0.5138      1609
+                               weighted avg     0.5158    0.5942    0.5466      1609
